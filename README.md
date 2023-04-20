@@ -32,4 +32,3 @@ The developed system requires the following features:
 ## Usage Model and Diagrams (if any)
 
 Fig. 1 shows the overall system architecture for ICR and how the current work is expected to fit in, and Fig. 2 shows a simple architecture of the current work.
-
